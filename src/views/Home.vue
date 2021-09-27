@@ -81,7 +81,7 @@
     </div>
 
     <div class="options">
-      Created By <a href="https://twitter.com/0xTYZ">0xTYZ</a>
+      Designed by <a href="https://twitter.com/0xTYZ">0xTYZ</a>
     </div>
   </div>
 </template>
